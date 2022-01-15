@@ -22,4 +22,4 @@ The little soundbars are made by me. You can find speed/colour variants [here](h
 
 Banners are by Tuath (#26058), thread with more of them is [here](https://www1.flightrising.com/forums/cc/2367442#post_31491468).
 
-Buttons are/icons by Serpenta, thread with more is [here](https://www1.flightrising.com/forums/cc/1985777#post_1985777), or they can be swapped for any on-site item with FR's item code and will still look nice :)
+Buttons are/icons by Serpenta (#165726), thread with more is [here](https://www1.flightrising.com/forums/cc/1985777#post_1985777), or they can be swapped for any on-site item with FR's item code and will still look nice :)
