@@ -20,6 +20,16 @@ The little soundbars are made by me. You can find speed/colour variants [here](h
 
 [empty code](./code/bio_short_threecolumn) | [example in use](https://www1.flightrising.com/dragon/39572550)
 
-Banners are by Tuath (#26058), thread with more of them is [here](https://www1.flightrising.com/forums/cc/2367442#post_31491468).
+Banners are by Tuath (#260584), thread with more of them is [here](https://www1.flightrising.com/forums/cc/2367442#post_31491468).
 
 Buttons are/icons by Serpenta (#165726), thread with more is [here](https://www1.flightrising.com/forums/cc/1985777#post_1985777), or they can be swapped for any on-site item with FR's item code and will still look nice :)
+
+## Longform three-part
+
+![Lonfrom three-part bio example](./img/bio_longform_threepart.png)
+
+[empty code](./code/bio_longform_threepart) | [example in use](https://www1.flightrising.com/dragon/49093078)
+
+If you wish to switch out the banners, they're made by Tuath (#260584) ([thread](https://www1.flightrising.com/forums/cc/2367442/1#post_31491468)), and shields are by Starkindler (#51686) ([thread](https://www1.flightrising.com/forums/cc/1997330/1#post_22977836)).
+
+If your text runs longer than the banner, it still looks good if you pad it with either item codes or on-site elemental banners, for example.
