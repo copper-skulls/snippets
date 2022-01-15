@@ -4,6 +4,11 @@ Free to use/modify on the `flightrising.com` website without credit, however you
 
 If you wish to credit me, you can either link this repo or just mention Lupik (#277), but this is fully optional.
 
+Current bio templates:
+- [Playlist](#playlist)
+- [Short three-column](#short-three-column)
+- [Longform three-part](#longform-three-part)
+
 ## Playlist
 
 ![Playlist bio example](./img/bio_playlist.png)
