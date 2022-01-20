@@ -8,9 +8,11 @@ footer.G6mnk.tOKgq {
 div.MCavR {
     /* the goddamn divider */
     border-top-style: none !important;
+    margin-right: 10px !important;
 }
 
 div.sfGru{
     /* one icon */
     padding-left: 20px;
+    padding-right: 0px
 }
