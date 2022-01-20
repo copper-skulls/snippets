@@ -1,0 +1,16 @@
+footer.G6mnk.tOKgq {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div.MCavR {
+    /* the goddamn divider */
+    border-top-style: none !important;
+}
+
+div.sfGru{
+    /* one icon */
+    padding-left: 20px;
+}
