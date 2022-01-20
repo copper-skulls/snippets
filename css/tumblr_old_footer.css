@@ -3,6 +3,7 @@ footer.G6mnk.tOKgq {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 0px;
 }
 
 div.MCavR {
@@ -14,5 +15,5 @@ div.MCavR {
 div.sfGru{
     /* one icon */
     padding-left: 20px;
-    padding-right: 0px
+    padding-right: 0px;
 }
