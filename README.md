@@ -7,5 +7,6 @@ For more information and usage instructions, see `README.md`s in the respective 
 - [CSS](./css/)
   - small css snippets
   - `./css/tumblr_old_footer.css`: changes the new (as of 20/01/2022) tumblr footer to something very closely resembling the old one instead. compact.
+  - `./css/buzzly_user_stats_begone.css`: hides the "Members Since", "Page Views", "Followers" and "Submissions" stats from people's profiles. Be freeeeee!
 - [FR Bio codes](./fr_bio_codes/README.md)
   - BBC code templates for `flightrising.com`
