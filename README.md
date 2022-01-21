@@ -6,7 +6,8 @@ For more information and usage instructions, see `README.md`s in the respective 
 **Currently contains:**
 - [CSS](./css/)
   - small css snippets
-  - `./css/tumblr_old_footer.css`: changes the new (as of 20/01/2022) tumblr footer to something very closely resembling the old one instead. compact.
-  - `./css/buzzly_user_stats_begone.css`: hides the "Members Since", "Page Views", "Followers" and "Submissions" stats from people's profiles. Be freeeeee!
+  - [`tumblr_old_footer.css`](./css/tumblr_old_footer.css): changes the new (as of 20/01/2022) tumblr footer to something very closely resembling the old one instead. compact. Maintained, but consider looking into Xkit Rewritten, which also fixes this the Tweaks extension!
+  - [`buzzly_user_stats_begone.css`](./css/buzzly_user_stats_begone.css): hides the "Members Since", "Page Views", "Followers" and "Submissions" stats from people's profiles. Be freeeeee!
+  - [`deviantart_stats_begone.css`](./css/deviantart_stats_begone.css): hides the stats line on: deviations, profiles, and hides favourite and comment counts from thumbnails.
 - [FR Bio codes](./fr_bio_codes/README.md)
   - BBC code templates for `flightrising.com`
