@@ -3,17 +3,28 @@
     display: none !important;
 }
 
-footer.G6mnk.tOKgq {
+footer.tOKgq {
+    /* push the footer closer to the tags */
+    margin-top: 15px;
+}
+
+div.m5KTc {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 0px;
+    /* margin-top: 0px; */
+}
+
+div.gstmW {
+    /* aligning notes back to the middle */
+    padding-top: 9px;
 }
 
 div.MCavR {
     /* the goddamn divider */
     border-top-style: none !important;
+    padding-top: 0px;
     margin-right: 10px !important;
 }
 
