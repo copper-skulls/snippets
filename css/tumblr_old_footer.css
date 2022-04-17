@@ -1,3 +1,8 @@
+span.EvhBA.PArFh {
+    /* tip button fix */
+    margin-left: 2px;
+}
+
 .WNEhC {
     /* colourful icons. to get them back, just comment this out. */
     display: none !important;
@@ -10,7 +15,7 @@ footer.tOKgq {
 
 div.m5KTc {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-between;
 }
@@ -29,6 +34,6 @@ div.MCavR {
 
 div.sfGru {
     /* one icon */
-    padding-left: 20px;
+    padding-left: 10px;
     padding-right: 0px;
 }
