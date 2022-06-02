@@ -1,3 +1,16 @@
+/* NO LONGER MAINTAINED.
+ * Tumblr keeps changing the CSS too often
+ * for me to constantly tweak this.
+ * You can use the Xkit Rewritten Tweaks
+ * extension instead:
+ * https://github.com/AprilSylph/XKit-Rewritten
+ * It is under Tweaks -> Compact footer and
+ * Hide the type note badge in footers
+ * to get the same result.
+ * Sorry, it's just gotten awful to maintain
+ * and someone else does it already! :)
+ */
+
 span.EvhBA.PArFh {
     /* tip button fix */
     margin-left: 2px;

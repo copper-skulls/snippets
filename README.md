@@ -6,7 +6,8 @@ For more information and usage instructions, see `README.md`s in the respective 
 **Currently contains:**
 - [CSS](./css/)
   - small css snippets
-  - [`tumblr_old_footer.css`](./css/tumblr_old_footer.css): changes the new (as of 20/01/2022) tumblr footer to something very closely resembling the old one instead. compact. Maintained, but consider looking into Xkit Rewritten, which also fixes this the Tweaks extension!
+  - [`tumblr_old_footer.css`](./css/tumblr_old_footer.css): changes the new (as of 20/01/2022) tumblr footer to something very closely resembling the old one instead. compact. ~~Maintained~~, but consider looking into Xkit Rewritten, which also fixes this the Tweaks extension!
+	- AS OF 2022-02-06, **NO LONGER MAINTAINED**
   - [`deviantart_stats_begone.css`](./css/deviantart_stats_begone.css): hides the stats line on: deviations, profiles, and hides favourite and comment counts from thumbnails.
 - [FR Bio codes](./fr_bio_codes/README.md)
   - BBC code templates for `flightrising.com`
